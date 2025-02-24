@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>canarabank Releases Nexus Repository</name>
-	      <url>http://13.250.33.104:9980/repository/canarabank-releases/</url>
+	      <url>http://13.212.232.203:9980/repository/canarabank-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>canarabank Snapshot Nexus Repository </name>
-	      <url>http://13.250.33.104:9980/repository/canarabank-snapshot/</url>
+	      <url>http://13.212.232.203:9980/repository/canarabank-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
