@@ -17,7 +17,7 @@
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/agac.jpg" alt="Alagappa College Logo" width="500"
+		<img src="images/agac.jpg" alt="Alagappa College Logo" width="100"
 	</span>
 	<span style="font-weight: bold;">
 		Alagappa govt arts college,
