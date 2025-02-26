@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>agac- Home Page</title>
-<link href="images/agac.jpg"  rel="icon">
+<link href="agac.jpg"  rel="icon">
 </head>
 </head>
 <body>
@@ -17,7 +17,7 @@
 <hr>
 <div style="text-align:center;">
 	<span>
-		<img src="images/agac.jpg" alt="" width="100" align="left"
+		<img src="agac.jpg" alt="" width="100" align="left"
 	</span>
 	<span style="font-weight: bold;">
 		Alagappa govt arts college,
