@@ -17,7 +17,7 @@
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src=""C:\Users\91944\Pictures\agac.jpg"" alt="" width="100">
+		<img src="C:\Users\91944\Pictures\agac.jpg" alt="" width="500">
 	</span>
 	<span style="font-weight: bold;">
 		Alagappa govt arts college,
