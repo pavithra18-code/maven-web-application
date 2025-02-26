@@ -15,7 +15,7 @@
 <hr>
 <br>
 <hr>
-<div style="text-align: center;">
+<div style="text-align:left;">
 	<span>
 		<img src="images/agac.jpg" alt="Alagappa College Logo" width="100"
 	</span>
