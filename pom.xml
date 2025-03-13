@@ -21,9 +21,9 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://54.251.19.243:9000/
+		<sonar.host.url>http://13.212.181.191:9000/
 </sonar.host.url>
-		<sonar.login>squ_9546596a6b483d118abd730e7cedb540188a77f9
+		<sonar.login>squ_64c77387eb0f49bf20954a99bb27634918dd6fa9
 </sonar.login>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>canarabank Releases Nexus Repository</name>
-	      <url>http://13.212.232.203:9980/repository/canarabank-release/</url>
+	      <url>http://13.250.49.193:9980/repository/canarabank-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>canarabank Snapshot Nexus Repository </name>
-	      <url>http://13.212.232.203:9980/repository/canarabank-snapshot/</url>
+	      <url>http://13.250.49.193:9980/repository/canarabank-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
